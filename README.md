@@ -18,9 +18,9 @@ Hi I'm Kusuma
 
 ### LANGUAGES ###
 
--Python
+- Python
 ### WEB TECHNOLOGIES ###
 
--HTML
--CSS
--MERN STACK
+- HTML
+- CSS
+- MERN STACK
