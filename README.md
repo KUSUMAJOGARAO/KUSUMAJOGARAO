@@ -9,7 +9,8 @@ Hi I'm Kusuma
 
 - 🌱 I’m currently learning
 - 👯 I'm currently studying btech and passionate to learn coding.
--     I'm working on projects to strengthen my skills in Python and web development using the MERN stack. My goal is to become proficient in these technologies and build exciting applications.
+-  I'm working on projects to strengthen my skills in Python and web development using the MERN stack.
+   My goal is to become proficient in these technologies and build exciting applications.
 - 👀I'm interested to learn new technologies.
 - 📫 How to reach me: LinkedIn
 
