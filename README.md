@@ -29,8 +29,8 @@ Currently pursuing my BTech degree, I'm deeply passionate about coding and techn
 
 
 ### Let's Connect! 📫
-* LinkedIn: poosarapu-kusuma
-* HackerRank: poosarapukusuma
+* LinkedIn: [poosarapu-kusuma](https://www.linkedin.com/in/poosarapu-kusuma)
+* HackerRank: [poosarapukusuma](https://www.hackerrank.com/profile/poosarapukusuma)
 
 
 Let's connect and explore the fascinating world of technology together! 🚀✨
