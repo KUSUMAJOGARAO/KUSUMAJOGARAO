@@ -1,40 +1,14 @@
-### Hi I'm POOSARAPU KUSUMA 👋
+###  Hey, I'm Kusuma! 👋
+🌐 About Me
+I'm Kusuma, a budding tech enthusiast currently diving deep into the world of coding. Pursuing my BTech degree, I'm on a mission to master various programming languages and web development frameworks. My goal is simple: to craft exciting applications while continuously learning and exploring new technologies.
 
-
-
-
-  ### 🌐About Me ###
-
-Hi I'm Kusuma
-
-- 🌱 I’m currently learning
-- 👯 I'm currently studying btech and passionate to learn coding.
--  I'm working on projects to strengthen my skills in Python and web development using the MERN stack.
-   My goal is to become proficient in these technologies and build exciting applications.
-- 👀I'm interested to learn new technologies.
-- 📫 How to reach me: LinkedIn
-
-
-
-### Skills ###
-
-### LANGUAGES ###
-
-- Python
-
-### WEB TECHNOLOGIES ###
-
-- HTML
-
-- CSS
-
-- MERN STACK
-
-
-### 🔗Connect With Me ###
-
-- LinkedIn:https://www.linkedin.com/in/poosarapu-kusuma-429280215/
-
-- Hacker Rank:https://www.hackerrank.com/profile/poosarapukusuma
-
-
+🚀 My Journey
+Learning and growing every day.
+Building cool stuff with these technologies:
+ 
+ 
+ 
+Keeping an eye out for the next big thing in tech.
+📫 Let's Connect!
+LinkedIn: poosarapu-kusuma
+HackerRank: poosarapukusuma
