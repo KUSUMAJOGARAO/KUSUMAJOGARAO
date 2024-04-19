@@ -4,7 +4,7 @@
 ### 🌐About Me
 
 ### Hey, I'm Kusuma! 👋
-             Currently pursuing my BTech degree, I'm deeply passionate about coding and technology. 
+        Currently pursuing my BTech degree, I'm deeply passionate about coding and technology. 
 ### Here's a bit about me:
 * 🌱 Currently learning and growing every day.
 * 👯 Studying BTech and fervently diving into coding.
