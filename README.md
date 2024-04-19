@@ -14,19 +14,19 @@
 
 
 
-### Skills
-
-### LANGUAGES
+### Skills💡
+* Tools : Visual Studio Code, Git
+### LANGUAGES💻
 
 * Programming : Python
 
-### WEB TECHNOLOGIES
+### WEB TECHNOLOGIES🌈
 
 * Frontend : HTML, CSS, Javascript
 * Databases : MongoDB
 
 
-📫 Let's Connect!
+### Let's Connect! 📫
 * 🔗LinkedIn: poosarapu-kusuma
 * 🔗HackerRank: poosarapukusuma
 
