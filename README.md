@@ -16,7 +16,7 @@ I'm working on projects to strengthen my skills in Python and web development us
 
 ### LANGUAGES
 
-. Programming : Python
+* Programming : Python
 
 ### WEB TECHNOLOGIES
 
