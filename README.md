@@ -5,14 +5,15 @@
 
 ### Hey, I'm Kusuma! 👋
 
-Currently pursuing my BTech degree, I'm deeply passionate about coding and technology. 
+Recently completed my BTech degree, I'm deeply passionate about coding and technology. 
 ### A Glimpse into My World:📝
 
 * 🌱 Currently learning and growing every day.
-* 👯 Studying BTech and fervently diving into coding.
-* 🚀 I'm working on projects to strengthen my skills in Python and web development using the MERN stack.
+* 👯 Studied BTech and fervently diving into coding.
+* 🚀 Completed projects in Python and web development using the MERN stack, and continuously learning more.
 * ⭐ My goal is to become proficient in these technologies and build exciting applications.
 * 👀 I'm interested to learn new technologies and expanding my horizons.
+* 🎯 Interested in roles such as Web Developer, Frontend Developer, Full Stack Developer, and Campus Ambassador.
 
 
 
