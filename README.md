@@ -25,7 +25,7 @@ Recently completed my BTech degree, I'm deeply passionate about coding and techn
 
 ### WEB TECHNOLOGIES🌈
 
-* Frontend : HTML, CSS, Javascript
+* Frontend : HTML, CSS, Javascript, React
 * Databases : MongoDB
 
 
